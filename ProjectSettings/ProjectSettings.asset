@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  productGUID: 37564dbeacb261e44b96a2b50a6f8cdb
+  productGUID: 8799dd764afd3ed4199dfb32697a4a72
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: mugKatcher
+  productName: 3DBeerCatcher
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
@@ -386,14 +386,14 @@ PlayerSettings:
   additionalIl2CppArgs: 
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: mugKatcher
+  metroPackageName: 3DBeerCatcher
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: mugKatcher
+  metroApplicationDescription: 3DBeerCatcher
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
