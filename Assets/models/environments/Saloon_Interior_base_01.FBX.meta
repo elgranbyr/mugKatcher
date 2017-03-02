@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 1b1aff63bee348545ac212160d567709
+timeCreated: 1488423735
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box004
+    100004: Box006
+    100006: Box007
+    100008: Box117
+    100010: Box118
+    100012: Box119
+    100014: Box120
+    100016: Box121
+    100018: Counter_Front
+    100020: Floor
+    100022: Object001
+    100024: //RootNode
+    100026: WallBack
+    100028: WallEntrance
+    100030: WallRight
+    100032: WallRight001
+    100034: Counter_Back
+    100036: Pilar_01
+    100038: Pilar_02
+    100040: Pilar_03
+    100042: Pilar_04
+    100044: Viga_01
+    100046: Viga_02
+    100048: Viga_03
+    100050: Viga_04
+    100052: Viga_05
+    100054: WallLeft
+    400000: Box001
+    400002: Box004
+    400004: Box006
+    400006: Box007
+    400008: Box117
+    400010: Box118
+    400012: Box119
+    400014: Box120
+    400016: Box121
+    400018: Counter_Front
+    400020: Floor
+    400022: Object001
+    400024: //RootNode
+    400026: WallBack
+    400028: WallEntrance
+    400030: WallRight
+    400032: WallRight001
+    400034: Counter_Back
+    400036: Pilar_01
+    400038: Pilar_02
+    400040: Pilar_03
+    400042: Pilar_04
+    400044: Viga_01
+    400046: Viga_02
+    400048: Viga_03
+    400050: Viga_04
+    400052: Viga_05
+    400054: WallLeft
+    2300000: Box001
+    2300002: Box004
+    2300004: Box006
+    2300006: Box007
+    2300008: Box117
+    2300010: Box118
+    2300012: Box119
+    2300014: Box120
+    2300016: Box121
+    2300018: Counter_Front
+    2300020: Floor
+    2300022: Object001
+    2300024: WallBack
+    2300026: WallEntrance
+    2300028: WallRight
+    2300030: WallRight001
+    2300032: Counter_Back
+    2300034: Pilar_01
+    2300036: Pilar_02
+    2300038: Pilar_03
+    2300040: Pilar_04
+    2300042: Viga_01
+    2300044: Viga_02
+    2300046: Viga_03
+    2300048: Viga_04
+    2300050: Viga_05
+    2300052: WallLeft
+    2300054: //RootNode
+    3300000: Box001
+    3300002: Box004
+    3300004: Box006
+    3300006: Box007
+    3300008: Box117
+    3300010: Box118
+    3300012: Box119
+    3300014: Box120
+    3300016: Box121
+    3300018: Counter_Front
+    3300020: Floor
+    3300022: Object001
+    3300024: WallBack
+    3300026: WallEntrance
+    3300028: WallRight
+    3300030: WallRight001
+    3300032: Counter_Back
+    3300034: Pilar_01
+    3300036: Pilar_02
+    3300038: Pilar_03
+    3300040: Pilar_04
+    3300042: Viga_01
+    3300044: Viga_02
+    3300046: Viga_03
+    3300048: Viga_04
+    3300050: Viga_05
+    3300052: WallLeft
+    3300054: //RootNode
+    4300000: Counter_Front
+    4300002: Box001
+    4300004: Box004
+    4300006: Box006
+    4300008: Box007
+    4300010: WallBack
+    4300012: WallEntrance
+    4300014: WallRight
+    4300016: WallRight001
+    4300018: Floor
+    4300020: Box117
+    4300022: Box118
+    4300024: Box119
+    4300026: Box120
+    4300028: Box121
+    4300030: Object001
+    4300032: Pilar_02
+    4300034: Pilar_03
+    4300036: Pilar_04
+    4300038: Pilar_01
+    4300040: WallLeft
+    4300042: Viga_01
+    4300044: Viga_02
+    4300046: Viga_03
+    4300048: Viga_05
+    4300050: Viga_04
+    4300052: Counter_Back
+    4300054: Saloon
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
