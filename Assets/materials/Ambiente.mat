@@ -42,13 +42,13 @@ Material:
     - first:
         name: _EmissionMap
       second:
-        m_Texture: {fileID: 2800000, guid: 65e6a22966c60904d9f5b267058a8d11, type: 3}
+        m_Texture: {fileID: 2800000, guid: 28cabf65d6172d34a975c1fca38c0645, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 65e6a22966c60904d9f5b267058a8d11, type: 3}
+        m_Texture: {fileID: 2800000, guid: 28cabf65d6172d34a975c1fca38c0645, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
@@ -103,6 +103,9 @@ Material:
     - first:
         name: _Parallax
       second: 0.02
+    - first:
+        name: _Shininess
+      second: 0.078125
     - first:
         name: _SmoothnessTextureChannel
       second: 0
